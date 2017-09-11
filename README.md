@@ -3,3 +3,4 @@
 # day 1: installed putty and loged into classroom
 # day 2: learned code for putty
 # day 3: we loged in to github
+# day 4: we learned how to add,commit,pull,push
