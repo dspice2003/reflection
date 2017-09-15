@@ -1,4 +1,4 @@
-# end of first week
+# end of week one
 ## 9/8/2017
 # day 1: installed putty and loged into classroom
 # day 2: learned code for putty
@@ -9,7 +9,7 @@
 ---
 
 
-# End of First Week
+# End of week two
 ## 9/15/2017
 # reflection of this week
 # we learned how to make a conversation on code
