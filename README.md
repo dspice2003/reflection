@@ -20,7 +20,7 @@
 ---
 
 
-#End of week two
+#End of week three
 ## 9/22/2017
  we started a project
  we learned how to find the average
