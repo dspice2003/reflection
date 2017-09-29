@@ -6,21 +6,27 @@
  day 4: we learned how to add,commit,pull,push
 
 
----
 
 
 # End of week two
 ## 9/15/2017
- reflection of this week
- we learned how to make a conversation on code
- we learned how to make questions on code
- we learned how to make a "enter your name" question
+ day 1: we learned how to make a conversation on code
+ day 2: we learned how to make questions on code
+ day 3: we learned how to make a "enter your name" question
 
 
----
 
 
-#End of week three
+# End of week three
 ## 9/22/2017
- we started a project
- we learned how to find the average
+day 1: we started a project
+day 2: we learned how to find the average
+
+
+
+
+# End of week four
+## 9/29/2017
+we started our google friday project. We learned how to make a password
+and username. I learned more about code. We learned how to make strings,
+floats,lists and int
