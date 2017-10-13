@@ -34,7 +34,7 @@ floats,lists and int
 
 
 # End of week five
-##10/13/2017
+## 10/13/2017
 we learned how to make a password and username. We also learned
 the command while wich runs the program till false. we learned
 how to convert time. we also how to count down in python and say 
