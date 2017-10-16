@@ -19,9 +19,9 @@
 
 # End of week three
 ## 9/22/2017
-day 1: we started a project
-day 2: we learned how to find the average
-
+we started a project we learned how to find the average. We learned a bunch of
+code. We learned how to add verbs to a story. We learned how to make the
+user guess for a number.
 
 
 
