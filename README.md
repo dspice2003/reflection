@@ -38,3 +38,11 @@ we learned how to make a password and username. We also learned
 the command while wich runs the program till false. we learned
 how to convert time. we also how to count down in python and say 
 BLASTOFF.
+
+
+# End of week six/seven
+## 10/27/17
+we learned loops and more code and we worked on iteration
+problems.we worked on google friday.we learned how to make
+lists and code with that.we learned how to make a multi table
+and how to find the sum of digits.
