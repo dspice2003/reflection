@@ -53,3 +53,11 @@ and how to find the sum of digits.
 we learned how to use the def command on armstrong. I worked on my google fiday.
 I finished problem1 on iteration and learned how to use the for command and the 
 range command I learned how to use the elif command and the % sigh.
+
+
+# End of week nine
+## 11/10/2017
+we added def commands to files fip.py. we learned how to change the color of
+text in the file myprint.py. I worked on sandbox and my google friday. added 
+password and username to my google friday project and more problems to my
+project
