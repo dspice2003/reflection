@@ -61,3 +61,10 @@ we added def commands to files fip.py. we learned how to change the color of
 text in the file myprint.py. I worked on sandbox and my google friday. added 
 password and username to my google friday project and more problems to my
 project
+
+
+# End of week ten
+## 11/17/2017
+we started our raspberry pi project. I added code to
+walkingdog.py and printed to the raspberry pi. I worked
+on my google friday project.
