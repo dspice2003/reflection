@@ -63,8 +63,8 @@ password and username to my google friday project and more problems to my
 project
 
 
-# End of week ten
-## 11/17/2017
+# End of week twelve
+## 12/01/2017
 we started our raspberry pi project. I added code to
 walkingdog.py and printed to the raspberry pi. I worked
-on my google friday project.
+on my google friday project. 
