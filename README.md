@@ -67,4 +67,12 @@ project
 ## 12/01/2017
 we started our raspberry pi project. I added code to
 walkingdog.py and printed to the raspberry pi. I worked
-on my google friday project. 
+on my google friday project.
+
+
+# End of week fourteen
+## 12/15/2017
+I changed my project for raspberry pi. Added code to my walkingdog.py.
+added more funtions to my walkingdog.py. I added more problems to my
+math help project(Google Friday). Added pythonProblem1.py and
+PythonProblem2.py. 
