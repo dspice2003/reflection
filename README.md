@@ -75,4 +75,11 @@ on my google friday project.
 I changed my project for raspberry pi. Added code to my walkingdog.py.
 added more funtions to my walkingdog.py. I added more problems to my
 math help project(Google Friday). Added pythonProblem1.py and
-PythonProblem2.py. 
+PythonProblem2.py.
+
+
+# End of eighteen
+##1/12/2018
+I added more code to pythonProblem2.py. Added GoogleFridayDone.py. Added more
+code to GoogleFridayDone.py. Finished week eighteen on README.md. Finished
+pythonProblem1.py. Studied for final exam. 
